@@ -61,6 +61,8 @@ namespace IGHW_Editor
 		}
 
 		//Reads an unsigned 32 bit integer
+		public uint ReadUInt32() => ReadUInt32((uint)fs.Position);
+		//Reads an unsigned 32 bit integer
 		public uint ReadUInt32(uint offset, SeekOrigin seekOrigin = SeekOrigin.Begin)
 		{
 			fs.Seek(offset, seekOrigin);
