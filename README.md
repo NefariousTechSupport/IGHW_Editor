@@ -3,6 +3,7 @@
 
 ## Supported Games
 * Ratchet & Clank (Future) A Crack in Time - loading of text pkg files
+* Ratchet & Clank All 4 One - loading of text pkg files
 
 ## Usage
 * Use "File > Open" to open a pkg file, other files aren't supported.
