@@ -1,4 +1,7 @@
 # IGHW Editor
+
+Note: This is bad, see https://github.com/NefariousTechSupport/InsomniacGamesPS3EngineEditor for a better tool
+
  A modding tool for PS3 games made by Insomniac Games
 
 ## Supported Games
